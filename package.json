@@ -9,7 +9,7 @@
     "build": "next build",
     "start": "next start",
     "export":"yarn run build && next export && mv out_static"
-  },,
+  },
   "engines":{
     "node":"14.x"
   },
